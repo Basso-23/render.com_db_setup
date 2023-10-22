@@ -1,15 +1,19 @@
-[
+{
+  "data": [
     {
       "id": 1,
-      "images": "Angelia Spata"
+
+      "images": "https://i.dummyjson.com/data/products/81/1.jpg"
     },
     {
       "id": 2,
-      "images": "Joan Davidi"
+
+      "images": "https://i.dummyjson.com/data/products/81/1.jpg"
     },
     {
       "id": 3,
-      "images": "Chloe Littrell"
+
+      "images": "https://i.dummyjson.com/data/products/81/1.jpg"
     }
-    
   ]
+}
