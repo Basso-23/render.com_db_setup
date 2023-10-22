@@ -14,6 +14,11 @@
       "id": 3,
 
       "images": "https://i.dummyjson.com/data/products/81/1.jpg"
+    },
+    {
+      "id": 4,
+
+      "images": "https://i.dummyjson.com/data/products/81/1.jpg"
     }
   ]
 }
