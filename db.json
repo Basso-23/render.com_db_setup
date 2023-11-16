@@ -1,5 +1,5 @@
 {
-  "HKS - small": [
+  "HKS_small": [
     {
       "id": 1,
       "images": "https://i.imgur.com/SAaCALM.jpg",
@@ -21,7 +21,7 @@
       "url": "https://ant30.com/en"
     }
   ],
-   "HKS - medium": [
+   "HKS_medium": [
     {
       "id": 1,
       "images": "https://i.imgur.com/SAaCALM.jpg",
@@ -43,7 +43,7 @@
       "url": "https://ant30.com/en"
     }
   ],
-  "HKS - large": [
+  "HKS_large": [
     {
       "id": 1,
       "images": "https://i.imgur.com/SAaCALM.jpg",
